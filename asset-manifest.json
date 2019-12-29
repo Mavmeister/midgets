@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/midgets/static/css/main.4a2ac423.chunk.css",
+    "main.js": "/midgets/static/js/main.8b269882.chunk.js",
+    "main.js.map": "/midgets/static/js/main.8b269882.chunk.js.map",
+    "runtime-main.js": "/midgets/static/js/runtime-main.47cf5419.js",
+    "runtime-main.js.map": "/midgets/static/js/runtime-main.47cf5419.js.map",
+    "static/js/2.0fdae663.chunk.js": "/midgets/static/js/2.0fdae663.chunk.js",
+    "static/js/2.0fdae663.chunk.js.map": "/midgets/static/js/2.0fdae663.chunk.js.map",
+    "index.html": "/midgets/index.html",
+    "precache-manifest.3eaeac57fe97ac74cf154d2ed522b8b2.js": "/midgets/precache-manifest.3eaeac57fe97ac74cf154d2ed522b8b2.js",
+    "service-worker.js": "/midgets/service-worker.js",
+    "static/css/main.4a2ac423.chunk.css.map": "/midgets/static/css/main.4a2ac423.chunk.css.map",
+    "static/js/2.0fdae663.chunk.js.LICENSE": "/midgets/static/js/2.0fdae663.chunk.js.LICENSE",
+    "static/media/moms.jpg": "/midgets/static/media/moms.4ff563ba.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47cf5419.js",
+    "static/js/2.0fdae663.chunk.js",
+    "static/css/main.4a2ac423.chunk.css",
+    "static/js/main.8b269882.chunk.js"
+  ]
+}
